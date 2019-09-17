@@ -4,7 +4,7 @@ A bot designed to use IRC client-server and restful APIs (google maps) to handle
 Test Run Sample:
 You have to use IRC char client such as limechat and be in chatroom "pircbot"
 
-Input:    "hero weather at The University of Texas at Dallas"
+Input:    hero weather at The University of Texas at Dallas
 
 Output:
           Weather at 800 W Campbell Rd, Richardson, TX 75080, US:
