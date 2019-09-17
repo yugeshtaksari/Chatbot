@@ -1,13 +1,10 @@
 //============================================================================
 //Name        : FirstBot.java
 //Author      : Yugesh Taksari
-//Course      : UTDallas CS 2336
-//Version     : 1.0
-//Copyright   : 2019
 //
 //Description : This description shows the runtime
 //
-//Test case: Input: hero weather at The University of Texas at Dallas
+//Test case: Input: "hero weather at The University of Texas at Dallas"
 //Response:			Weather at 800 W Campbell Rd, Richardson, TX 75080, US:
 //					The current temperature is: 42.9 degree Fahrenheit
 //					Minimum Temperature: " 32.4 and Maximum Temperature:56.1 degree Fahrenheit
@@ -94,7 +91,7 @@ public class FirstBot extends PircBot{
     	public String[] getWeather(String[] latAndLng) throws Exception{
  	       	StringBuilder weatherURL = new StringBuilder(""); //string builder to create a api get url
  	    	String site = "http://api.openweathermap.org/data/2.5/weather?"; // main api request site
- 	        String weatherAPItoken = "61d690e859170ba7ee9ea91557529328"; // parameter of API Key
+ 	        String weatherAPItoken = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"; // ENTER YOUR parameter of API Key
 
  	        // append all parts of url to create a complete site
  	        weatherURL.append(site);
