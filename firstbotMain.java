@@ -1,9 +1,6 @@
 //============================================================================
 //Name        : FirstBotMain.java
 //Author      : Yugesh Taksari
-//Course      : UTDallas CS 2336
-//Version     : 1.0
-//Copyright   : 2019
 //
 //Description : This is a program that acts as a interactive chat bot that will 
 // simulate conversations, specially regarding the weather. this program requires connection
