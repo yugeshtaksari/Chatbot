@@ -10,4 +10,4 @@ Output:
           Weather at 800 W Campbell Rd, Richardson, TX 75080, US:
           The current temperature is: 42.9 degree Fahrenheit
 					Minimum Temperature: " 32.4 and Maximum Temperature:56.1 degree Fahrenheit
-					Current wind condition: 3.4 miles/hr");
+					Current wind condition: 3.4 miles/hr"
